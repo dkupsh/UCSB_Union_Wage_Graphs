@@ -176,7 +176,7 @@ plt.plot(dates, tutor_actual_wage, color='red',
          linestyle='-.', label="Union-Won Tutor Wage")
 plt.plot(dates, uc_tutor_wage, color='darkorange',
          linestyle='-.', label="UC-Offered Tutor Wage")
-plt.plot(rent_dates, (average_rent_cost * 3 * 12) / (20 * 52.1429), color='blue',
+plt.plot(rent_dates, (average_rent_cost * 3 * 12) / (40 * 52.1429), color='blue',
          linestyle='-.', label="Non-Rent Burden Wage")
 
 # naming the y axis

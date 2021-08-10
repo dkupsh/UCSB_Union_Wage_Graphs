@@ -43,4 +43,4 @@ Defined as the initial offer from the UC on the Salary and Compensation Article 
 
 For Average Rent in Santa Barbara: https://www.deptofnumbers.com/rent/california/santa-barbara-county/
 
-The non-rent burdoned wage is the wage where average rent is only 1/3 of the total wage.
+The non-rent burdoned wage is the wage where average rent is only 1/3 of the total wage. For Tutor Wage graphs, the non-rent burdoned wage assumes a 40 hr/week work-week (this roughly correlates to the modern Santa Barbara Living Wage policy).
